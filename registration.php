@@ -17,5 +17,15 @@ if(isset($_POST['email'])) {
     /*
     UPDATE `users` SET `email` = 'apprenticemgl@gmail.com' WHERE id = 1;
     */
+
+    /*
+    DELETE FROM `users` WHERE `email` = 'i+1212@apprentice.mn';
+    */
+
+    /*
+    SELECT * FROM `users`;
+
+    SELECT * FROM `users` where username = 'username2' AND id = 1
+    */
 }
 ?>
